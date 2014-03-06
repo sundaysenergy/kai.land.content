@@ -1,6 +1,8 @@
 Kai Land - 2753 Hennepin, Apt #3
 ================
 
+Part of the [H28 Building](http://www.h28.co) in Uptown.
+
 ### Bathroom and Kitchen Remodel.
 
 * [Sketchup Model](https://www.dropbox.com/sh/byuk5uxs4hlee1f/QIp6-jFPHR/2753Hennepin.skp)
