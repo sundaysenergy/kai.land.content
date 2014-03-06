@@ -1,4 +1,4 @@
-What's Happening in Kai Land
+Kai Land - 2753 Hennepin, Apt #3
 ================
 
 ### Bathroom and Kitchen Remodel.
@@ -23,7 +23,9 @@ Two 4" Cast Iron DWV Pipe sections exit horizontally in the center of the space.
 
 * 16" sink for 1/2 bath.
 * Wall Hung toilet for 1/2 bath.
-* Kitchen/Utility Sink (w/ Dishwasher)
+* Kitchen/Utility Sink
+* Dishwasher
+* Water Filter
 * Bathtub
 * Bidet
 * Vanity w/ Sink
