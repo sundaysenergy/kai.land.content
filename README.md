@@ -23,12 +23,13 @@ Two 4" Cast Iron DWV Pipe sections exit horizontally in the center of the space.
 
 #### New Fixtures
 
-* 16" sink (west 1/2 bath)
-* Wall Hung toilet 15x21x10 (west 1/2 bath)
-* 40" Kitchen/Utility Sink (kitchen)
-* Dishwasher (kitchen)
+* 16" sink (west 1/2 bath) - West Drain
+* Wall Hung toilet 15x21x10 (west 1/2 bath) - West Drain
+* 40" Kitchen/Utility Sink (kitchen) - West Drain
+* Dishwasher (kitchen) - West Drain
 * Water Filter (kitchen)
 * Bathtub 5'x3' (east bathroom)
 * Bidet (east bathroom)
 * Vanity w/ Sink (east bathroom)
 * Washer/Dryer Combo Unit (bedroom)
+* Pot Filler (Island)
