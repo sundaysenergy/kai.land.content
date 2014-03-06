@@ -14,19 +14,19 @@ Kai Land - 2753 Hennepin, Apt #3
 
 Two 4" Cast Iron DWV Pipe sections exit horizontally in the center of the space.
 
-* New fixtures
+* Install new fixtures
 * 3" Cleanout for toilet line.
 * Pot Filler in center island
 * New gas line to stove
 
-#### New Fixture
+#### New Fixtures
 
-* 16" sink for 1/2 bath.
-* Wall Hung toilet for 1/2 bath.
-* Kitchen/Utility Sink
-* Dishwasher
-* Water Filter
-* Bathtub
-* Bidet
-* Vanity w/ Sink
-* Washer/Dryer Combo Unit
+* 16" sink (west 1/2 bath)
+* Wall Hung toilet 15x21x10 (west 1/2 bath)
+* 40" Kitchen/Utility Sink (kitchen)
+* Dishwasher (kitchen)
+* Water Filter (kitchen)
+* Bathtub 5'x3' (east bathroom)
+* Bidet (east bathroom)
+* Vanity w/ Sink (east bathroom)
+* Washer/Dryer Combo Unit (bedroom)
