@@ -8,13 +8,14 @@ What's Happening in Kai Land
 #### Kitchen
 
 * Counter Height 36"
-* 
+* Bar Height 42"
 
 ### Plumbing
 
 Two 4" Cast Iron DWV Pipe sections exit horizontally in the center of the space.
 
 * New fixtures
+* 3" Cleanout for toilet line.
 * Pot Filler in center island
 * New gas line to stove
 
@@ -22,7 +23,7 @@ Two 4" Cast Iron DWV Pipe sections exit horizontally in the center of the space.
 
 * 16" sink for 1/2 bath.
 * Wall Hung toilet for 1/2 bath.
-* Kitchen/Utility Sink
+* Kitchen/Utility Sink (w/ Dishwasher)
 * Bathtub
 * Bidet
 * Vanity w/ Sink
