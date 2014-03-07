@@ -1,5 +1,4 @@
-Kai Land - 2753 Hennepin, Apt #3
-================
+## 2753 Hennepin, Apt #3
 
 Part of the [H28 Building](http://www.h28.co) in Uptown.
 
