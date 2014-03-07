@@ -1,3 +1,8 @@
 ---
 
 title: Kai Land
+navbar: true
+nav:
+  -
+    title: "H28"
+    link: "http://www.h28.co/"
