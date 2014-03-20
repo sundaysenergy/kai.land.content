@@ -35,7 +35,7 @@ Minneapolis, MN 55408
 ### Fire-Resistance Rating for Building Elements
 * 2 hr. exterior bearing walls for Type IIIB construction
 
-### Fire-Resistance Rated Construction:
+### Fire-Resistance Rated Construction
 * 2 hr. exterior bearing walls for Type IIIB construction
 * 1 hr. fire partition separating dwelling unit
 
