@@ -4,6 +4,9 @@ Part of the [H28 Building](http://www.h28.co) in Uptown.
 
 ### Bathroom and Kitchen Remodel.
 
+* [Floor Assembly Review](files/floors.pdf)
+* [Code Review Plans](files/code-plan.pdf)
+* [Code Review](code-review.html)
 * [Sketchup Model](https://www.dropbox.com/sh/byuk5uxs4hlee1f/QIp6-jFPHR/2753Hennepin.skp)
 
 #### Kitchen
