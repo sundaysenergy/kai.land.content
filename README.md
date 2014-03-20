@@ -2,7 +2,7 @@
 
 Part of the [H28 Building](http://www.h28.co) in Uptown.
 
-### Bathroom and Kitchen Remodel.
+### Bathroom and Kitchen Remodel
 
 * [Floor Assembly Review](files/floors.pdf)
 * [Code Review Plans](files/code-plan.pdf)
