@@ -39,3 +39,6 @@ East Drain
 * Bidet (east bathroom)
 * Vanity w/ Sink (east bathroom)
 * Washer/Dryer Combo Unit (bedroom)
+
+
+[edit](https://github.com/sundaysenergy/kai.land.content)
